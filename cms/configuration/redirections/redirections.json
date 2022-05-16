@@ -1,9 +1,10 @@
 {
   "rules": [
     {
-      "from": "/exemples",
-      "to": "/exemples-de-haiku",
+      "from": "https://blog.algocar.com/controle-technique/",
+      "to": "/controle-technique/",
       "statusCode": "301"
     }
-  ]
+  ],
+  "id": "d725e3bb-ec8c-400a-b2b4-aa843e624f9e"
 }
